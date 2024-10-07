@@ -27,3 +27,10 @@
 .dart_tool/
 .packages
 build/
+
+
+# FVM
+.fvm/
+
+# VSCode
+.vscode/
